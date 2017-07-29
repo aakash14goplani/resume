@@ -18,11 +18,25 @@
     font-size: 100%;
     margin: 0 auto 20px;
 }
-.experience-heading,.education-heading{
+.experience-heading,.education-heading,.personal-info-heading,.skills-heading{
     font: 25px/1em opensans-bold,sans-serif;
     color: black;
     letter-spacing: 1px;
 }
-.experience,.education{
+.experience,.education,.personal-info,.skills{
     margin: 0 auto 20px;
+}
+span.heading {
+    font: 15px/1em opensans-bold,sans-serif;
+    color: black;
+    letter-spacing: 1px;
+    margin: 0 auto 10px;
+    display: block;
+    font-weight: bold;
+}
+span.content {
+    font-family: opensans-regular,sans-serif;
+    font-size: 100%;
+    margin: 0 auto 15px;
+    display: block;
 }
