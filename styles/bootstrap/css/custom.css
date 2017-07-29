@@ -1,0 +1,28 @@
+.container{
+    margin: 20px auto;
+}
+.name{
+    font: 45px/1.1em opensans-bold,sans-serif;
+    color: black;
+    letter-spacing: 0px;
+    margin: 0 auto 10px;
+}
+.position{
+    font: 25px/1em opensans-bold,sans-serif;
+    color: black;
+    letter-spacing: 1px;
+    margin: 0 auto 20px;
+}
+.summary{
+    font-family: opensans-regular,sans-serif;
+    font-size: 100%;
+    margin: 0 auto 20px;
+}
+.experience-heading,.education-heading{
+    font: 25px/1em opensans-bold,sans-serif;
+    color: black;
+    letter-spacing: 1px;
+}
+.experience,.education{
+    margin: 0 auto 20px;
+}
